@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">BusinessApp</string>
+
+
+    <string name="app_name">business</string>
+    <string name="messages_header">header</string>
+    <string name="signature_title">title</string>
+    <string name="reply_title">replytitle</string>
+    <string name="sync_header">syncheader</string>
+    <string name="sync_title">synctitle</string>
+    <string name="attachment_summary_off">attachment_summary</string>
+    <string name="attachment_summary_on">attachment_summary</string>
+    <string name="attachment_title">attachment_title</string>
 </resources>
